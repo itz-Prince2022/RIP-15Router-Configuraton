@@ -40,7 +40,9 @@ This project demonstrates the configuration of a **15-router network topology** 
 
 ## Screenshot
 
-![15 Router RIP Topology](./screenshots/15-router-rip-topology.png)
+![15 Router RIP Topology](./screenshots/3.png)
+![15 Router RIP Topology](./screenshots/2.png)
+![15 Router RIP Topology](./screenshots/1.png)
 
 ---
 
