@@ -7,7 +7,7 @@ This project demonstrates the configuration of a **15-router network topology** 
 ## Project Description
 
 - Designed and configured a network consisting of **15 routers**
-- Implemented **RIP version 2** for dynamic routing
+- Implemented **RIP version 1** for dynamic routing
 - Applied proper **IP addressing and subnetting**
 - Verified connectivity and routing using standard network commands
 - Troubleshot routing and connectivity issues
