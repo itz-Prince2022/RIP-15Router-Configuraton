@@ -1,34 +1,56 @@
-# 🖧 Multi-Router Network Design using RIP (15 Routers)
+# Multi-Router Network Design using RIP (15 Routers)
 
-This project demonstrates the design and configuration of a **15-router network topology** using **RIP (Routing Information Protocol)** to enable dynamic routing and end-to-end connectivity across multiple networks.
+This project demonstrates the configuration of a **15-router network topology** using **RIP (Routing Information Protocol)** for dynamic routing and end-to-end connectivity.
 
 ---
 
-## 📌 Project Overview
+## Project Description
 
-- Designed a scalable network consisting of **15 routers**
+- Designed and configured a network consisting of **15 routers**
 - Implemented **RIP version 2** for dynamic routing
-- Configured proper **IP addressing and subnetting**
-- Verified network connectivity and routing convergence
-- Performed troubleshooting to resolve routing and connectivity issues
-
-This project helped me understand **dynamic routing fundamentals**, routing tables, hop count metrics, and real-world network troubleshooting.
+- Applied proper **IP addressing and subnetting**
+- Verified connectivity and routing using standard network commands
+- Troubleshot routing and connectivity issues
 
 ---
 
-## 🛠 Tools & Technologies Used
+## Tools Used
 
-- **Cisco Packet Tracer**
-- **Router CLI (Cisco IOS Commands)**
-- **Routing Protocol:** RIP (Version 2)
-- **Networking Concepts:**  
-  - IP Addressing  
-  - Subnetting  
-  - Routing Tables  
-  - Ping & Traceroute  
+- Cisco Packet Tracer
+- Router CLI (Cisco IOS)
+- RIP (Version 2)
 
 ---
 
-## ⚙️ Configuration Highlights
+## Key Commands
 
-- Enabled RIP using:
+-router rip
+-version 2
+-no auto-summary
+-network <network-address>
+
+## Verification:
+
+-show ip route
+-show ip protocols
+-ping
+
+---
+
+## Screenshot
+
+![15 Router RIP Topology](./screenshots/15-router-rip-topology.png)
+
+---
+
+## Learning Outcomes
+
+- Understanding of dynamic routing using RIP
+- Hands-on experience with multi-router network design
+- Improved network troubleshooting skills
+
+---
+
+## Author
+
+Prince
