@@ -18,7 +18,7 @@ This project demonstrates the configuration of a **15-router network topology** 
 
 - Cisco Packet Tracer
 - Router CLI (Cisco IOS)
-- RIP (Version 2)
+- RIP (Version 1)
 
 ---
 
