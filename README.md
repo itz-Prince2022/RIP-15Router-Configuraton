@@ -24,16 +24,17 @@ This project demonstrates the configuration of a **15-router network topology** 
 
 ## Key Commands
 
--router rip
--version 2
--no auto-summary
--network <network-address>
+- router rip
+- version 2
+- no auto-summary
+- network <network-address>
 
 ## Verification:
 
--show ip route
--show ip protocols
--ping
+- show ip route
+- show ip protocols
+- ping
+- traceroute
 
 ---
 
