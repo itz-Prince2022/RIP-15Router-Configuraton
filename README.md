@@ -25,8 +25,7 @@ This project demonstrates the configuration of a **15-router network topology** 
 ## Key Commands
 
 - router rip
-- version 2
-- no auto-summary
+- version 1
 - network <network-address>
 
 ## Verification:
